@@ -1,0 +1,118 @@
+
+body {
+  background: #DADFEA;
+  color: #5A6170;
+  font-family: 'Dosis', sans-serif;
+  font-weight 300:
+  font-size 20px;
+  line-height: 1.5em;
+}
+
+h1 {
+  color: #6C63FF;
+  font-size: 30px;
+  font-weight: 400;
+}
+
+h1, h2 {
+  font-family: 'Cabin', sans-serif;
+}
+
+h2 {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+  color: #5A6170;
+}
+
+a:hover {
+  color: #D8315B;
+}
+
+
+#page-content {
+  margin-left: 120px;
+}
+
+.container {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.card {
+  background: white;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 6px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+
+.img-round {
+  border-radius: 50%;
+}
+
+/*Movies*/
+
+#movies {
+  font-weight: 300;
+  font-size: 15 px;
+  line-height: 1.5em
+}
+
+#movies img {
+  width: 200px;
+}
+
+#movies td {
+  padding: 10px;
+}
+
+.btn-follow {
+  background: linear-gradient(to left, #F8A4D8, #6C63FF);
+  color: white;
+  font-weight: 500px;
+  padding: 10px;
+  border-radius: 6px;
+}
+
+.btn-follow:hover {
+    background: linear-gradient(to right, #F8A4D8, #6C63FF);
+    color: white;
+}
+
+
+.btn-trailer {
+  background-color: #6C63FF;
+  color: white;
+  font-weight: 400px;
+  padding: 9px;
+  border-radius: 6px;
+}
+
+.btn-trailer:hover {
+    background-color: #F8A4D8;
+    color: white;
+    }
+
+
+.list-inline {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-inline li {
+  display: inline-block;
+  margin: 10px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+#footer{
+  font-size: 15px;
+}
